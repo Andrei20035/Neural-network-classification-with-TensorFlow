@@ -112,10 +112,10 @@ The inference layer could be implemented as a **microservice** (FastAPI or Ktor)
 ## 🖼️ Visualizations
 
 ### 🌙 Decision Boundary – Make Moons
-Add the generated plot in `/images`.
+![Decision Boundary](images/decision_boundary.png)
 
 ### 👕 Confusion Matrix – Fashion-MNIST
-Add the generated plot in `/images`.
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
